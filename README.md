@@ -1,5 +1,6 @@
 
 ### Olá! Eu Sou o Alan Santos 😉
+#### Estudande de Desnvolvimento de Sistemas (IFAL)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jose-alan-de-aquino-santos-512a14170/)
