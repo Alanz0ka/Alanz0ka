@@ -8,6 +8,7 @@
 )](https://www.instagram.com/alan.dev1/)
 
 ![Alanz0ka GitHub stats](https://github-readme-stats.vercel.app/api?username=Alanz0ka&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanz0ka)](https://github.com/Alanz0ka/github-readme-stats)
 
 ## Tecnologias que uso no meu dia-a-dia
 <div style="display: inline_block"><br/>
