@@ -1,14 +1,14 @@
 
 ### Olá! Eu Sou o Alan Santos 😉
-#### Estudande de Desnvolvimento de Sistemas (IFAL)
+#### Estudande de Desenvolvimento de Sistemas (IFAL)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/jose-alan-de-aquino-santos-512a14170/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/alan.dev1/)
 
-![Alanz0ka GitHub stats](https://github-readme-stats.vercel.app/api?username=Alanz0ka&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanz0ka)](https://github.com/Alanz0ka/github-readme-stats)
+![Alanz0ka GitHub stats](https://github-readme-stats.vercel.app/api?username=Alanz0ka&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanz0ka&theme=dracula)](https://github.com/Alanz0ka/github-readme-stats)
 
 ## Tecnologias que uso no meu dia-a-dia
 <div style="display: inline_block"><br/>
