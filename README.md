@@ -3,7 +3,7 @@
 #### Estudante de Desenvolvimento de Sistemas (IFAL)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/jose-alan-de-aquino-santos-512a14170/)
+)](www.linkedin.com/in/josealandeaquinosantos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/alan.dev1/)
 
