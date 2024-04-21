@@ -17,8 +17,8 @@
 
 - 📚 Cursando Des. de Sistemas no Instituto Federal de Alagoas (IFAL).
 - 👨‍💻 Estudante de Desenvolvimento Web a pouco mais de um ano .
-- 🛠️ Colaborador no Projeto "Blessed - Ofina de Desenvolvimento Web" como Instrutor bolsista
-- 📉 Participei de vários projetos de pesquisa, e hackatons ganhando premiações e viagens
+- 🛠️ Colaborador no Projeto "Blessed - Ofina de Desenvolvimento Web" como Instrutor e bolsista.
+- 📉 Participei de vários projetos de pesquisa, e hackatons ganhando premiações e viagens.
 - 💸 Procurando espaço na área da tecnologia.
 <br>
 
