@@ -1,30 +1,71 @@
+<h1 align="center">Olá! <img src="img/carinha-pc.png" width="30px">, Eu sou o Alan </h1>
 
-### Olá! Eu Sou o Alan Santos 😉
-#### Estudante de Desenvolvimento de Sistemas (IFAL)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/josealandeaquinosantos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/alan.dev1/)
+<p align="center">
+  <em>
+    Meu nome é Alan Santos, mas todos me chamam de Alan! Atualmente, tenho 20 anos e estou
+    <br>
+    buscando me especializar na área de tecnologia, mais precisamente em áreas de desenvolvimento Full-Stack.
+  <br>
+</p>
 
-![Alanz0ka GitHub stats](https://github-readme-stats.vercel.app/api?username=Alanz0ka&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanz0ka&theme=dracula)](https://github.com/Alanz0ka/github-readme-stats)
+<p align="center">
+  <img src="https://media.tenor.com/MVlE-EW4AuoAAAAi/ben10-cann.gif" width="100px">
+</p>
 
-## Tecnologias que uso no meu dia-a-dia
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-">
-    <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-">
-    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-">
-    <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-">
-    <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-">
-</div><br/>
+<h3>Pega um cafézinho e lê algumas coisas sobre mim!</h3>
 
-Apaixonado por estudar, e amante da curiosidade!
+- 📚 Cursando Des. de Sistemas no Instituto Federal de Alagoas (IFAL).
+- 👨‍💻 Estudante de Desenvolvimento Web a pouco mais de um ano .
+- 🛠️ Colaborador no Projeto "Blessed - Ofina de Desenvolvimento Web" como Instrutor bolsista
+- 📉 Participei de vários projetos de pesquisa, e hackatons ganhando premiações e viagens
+- 💸 Procurando espaço na área da tecnologia.
+<br>
 
-## Entre em contato!
-alan@v.coneragir.org
+---
+
+<details open="">
+<summary>
+  💻 Tecnologias que uso atualmente:
+</summary>
+<br>
+ <br>
+<div>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+
+</div>
+<br>
+ <br>
+</details>
+
+<details open="">
+  <summary>📔 Status GitHub:</summary>
+  <br>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Alanz0ka&theme=dracula&show_icons=true" alt="Anurag's GitHub stats">
+  </p>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanz0ka&theme=dracula)](https://github.com/Alanz0ka/github-readme-stats)
+</details>
+
+---
+
+<h4>📝 - Você pode conversar comigo por aqui:<h4>
+
+
+<a href="mailto:josealan.santos14@gmail.com">
+  <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
+<a href="https://www.instagram.com/lanzoka.dev/">
+  <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+<a href="https://github.com/Alanz0ka">
+  <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+</a>
+<br>
+  
