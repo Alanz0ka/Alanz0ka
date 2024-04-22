@@ -43,7 +43,7 @@
 ---
 
 <h3>Ficou interessado? Veja meu curriculo</h3>
-<a href="https://drive.google.com/uc?export=download&id=14lm5nJvpUezEFCo9PQNAXVbqBqvDY-wQ">
+<a href="https://drive.google.com/uc?export=download&id=14lm5nJvpUezEFCo9PQNAXVbqBqvDY-wQ" style="text-decoration: none;">
   <p>👉 Baixe Aqui! 👈</p>
 </a>
 
