@@ -39,6 +39,14 @@
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
 
 </div>
+
+---
+
+<h3>Ficou interessado? Veja meu curriculo</h3>
+<a href="https://drive.google.com/uc?export=download&id=14lm5nJvpUezEFCo9PQNAXVbqBqvDY-wQ">
+  <p>Baixe Aqui!</p>
+</a>
+
 <br>
  <br>
 </details>
