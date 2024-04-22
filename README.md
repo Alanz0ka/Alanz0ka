@@ -44,7 +44,7 @@
 
 <h3>Ficou interessado? Veja meu curriculo</h3>
 <a href="https://drive.google.com/uc?export=download&id=14lm5nJvpUezEFCo9PQNAXVbqBqvDY-wQ">
-  <p>Baixe Aqui!</p>
+  <p>👉 Baixe Aqui! 👈</p>
 </a>
 
 <br>
