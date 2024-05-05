@@ -58,7 +58,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Alanz0ka&theme=dracula&show_icons=true" alt="Anurag's GitHub stats">
   </p>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alanz0ka&theme=dracula)](https://github.com/Alanz0ka/github-readme-stats)
+  <div>
+    <a href="https://github.com/DavidFerreiraa">
+    <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanz0ka&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
 </details>
 
 ---
