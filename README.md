@@ -59,7 +59,7 @@
   </p>
 
   <div>
-    <a href="https://github.com/DavidFerreiraa">
+    <a href="https://github.com/Alanz0ka">
     <img height="200em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanz0ka&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 </details>
