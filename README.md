@@ -15,7 +15,7 @@
 
 <h3>Pega um cafézinho e lê algumas coisas sobre mim!</h3>
 
-- 📚 Cursando Des. de Sistemas no Instituto Federal de Alagoas (IFAL).
+- 📚 Cursando Sistemas para Internet na UNCISAL.
 - 👨‍💻 Estudante de Desenvolvimento Web a pouco mais de um ano .
 - 🛠️ Colaborador no Projeto "Blessed - Ofina de Desenvolvimento Web" como Instrutor e bolsista.
 - 📉 Participei de vários projetos de pesquisa e hackatons obtendo premiações e viagens.
