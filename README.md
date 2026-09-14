@@ -40,6 +40,12 @@ e digitalizar o que ainda acontece no papel.
 | [josealan.com.br](https://github.com/Alanz0ka/josealan.com.br) | Meu site pessoal | HTML · CSS |
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alanz0ka&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=00000000&title_color=d6401f&icon_color=d6401f&text_color=8b8680" alt="Estatísticas do GitHub de Alan Aquino" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alanz0ka&layout=compact&langs_count=6&hide_border=true&hide=jupyter%20notebook&bg_color=00000000&title_color=d6401f&text_color=8b8680" alt="Linguagens mais usadas" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alanz0ka&theme=github_dark">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alanz0ka&theme=github" alt="Estatísticas do GitHub de Alan Aquino">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alanz0ka&theme=github_dark">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alanz0ka&theme=github" alt="Linguagens por repositório">
+  </picture>
 </p>
