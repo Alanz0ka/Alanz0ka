@@ -1,152 +1,45 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      HEADER / APRESENTAÇÃO                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+# Alan Aquino
 
-<div align="center">
+**Analista de Suporte N2 · Infraestrutura de TI e Desenvolvimento** — Maceió, AL
 
-<img src="img/carinha-pc.png" width="110" alt="Alan codando com um cafezinho" />
+Cuido de redes, servidores e backups de hotéis, restaurantes e empresas com várias unidades.
+Do outro lado da mesa, estudo Sistemas para Internet e escrevo código para automatizar o suporte
+e digitalizar o que ainda acontece no papel.
 
-# Olá! Eu sou o Alan 👋
+> Infraestrutura bem feita se mede em MTTR, padrão técnico e documentação, do mini rack da filial ao data center.
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o;Estudante+de+Sistemas+para+Internet;Instrutor+%40+Blessed+Oficina+de+Dev+Web;Sempre+aprendendo+algo+novo+%E2%98%95" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Alanz0ka&label=Visitas%20no%20perfil&color=bd93f9&style=flat-square" alt="Contador de visitas" />
-<a href="https://github.com/Alanz0ka?tab=followers">
-  <img src="https://img.shields.io/github/followers/Alanz0ka?label=Seguidores&style=flat-square&color=ff79c6" alt="Seguidores" />
-</a>
-<img src="https://img.shields.io/badge/Foco-Full--Stack-8be9fd?style=flat-square" alt="Foco Full-Stack" />
-
-</div>
+[josealan.com.br](https://josealan.com.br) · [LinkedIn](https://www.linkedin.com/in/josealandeaquinosantos/) · [Currículo (PDF)](https://josealan.com.br/assets/curriculo-alan-aquino.pdf) · [contato@josealan.com.br](mailto:contato@josealan.com.br)
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          SOBRE MIM                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+### Agora
 
-## ☕ Pega um cafezinho e lê algumas coisas sobre mim
+- **Analista de Suporte N2** na I.Soluções Tecnologia e Inovação, MSP onde comecei como estagiário em 2022
+- **Bolsista PET-Saúde/I&SD** na UNCISAL, no time full stack que digitaliza processos do SUS
+- **Tecnólogo em Sistemas para Internet** na UNCISAL, com conclusão prevista para 2027
 
-Meu nome é **Alan Aquino**, tenho 22 anos e estou em busca de me especializar
-na área de tecnologia — mais precisamente em **desenvolvimento Full-Stack**.
+### Stack
 
-- 🎓 Cursando **Sistemas para Internet** na UNCISAL.
-- 👨‍💻 Estudo **Desenvolvimento Web** há pouco mais de um ano.
-- 🛠️ Instrutor e bolsista no projeto **"Blessed – Oficina de Desenvolvimento Web"**.
-- 🏆 Participei de projetos de pesquisa e hackathons, conquistando **premiações e viagens**.
-- 🌱 Atualmente aprofundando em **Node.js**, **TypeScript** e boas práticas de código.
-- 🚀 Em busca do meu espaço na área da tecnologia — bora construir algo juntos?
+| Infraestrutura | Desenvolvimento |
+|---|---|
+| Ubiquiti UniFi (VLANs, SD-WAN, Wi-Fi), firewalls | Python (Flask, Django) |
+| Windows Server, Active Directory, Hyper-V | JavaScript, Node.js, Express |
+| QNAP (iSCSI/LUNs), N-able Cove | Java |
+| RMM N-able, Jira Service Desk | MariaDB, MySQL, SQLite |
+| CFTV e telefonia IP Intelbras | Git, Docker, Shell, Raspberry Pi |
 
----
+### Projetos em destaque
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        TECNOLOGIAS                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [ChamaTI](https://github.com/Alanz0ka/ChamaTI) | Sistema de chamados de TI com painel Kanban, anexos, base de conhecimento e acesso por perfil | Python · Flask · SQLite |
+| [e-Mamografia](https://github.com/Alanz0ka/e-Mamografia) | App desktop do PET-Saúde que digitaliza a requisição de mamografia e gera o PDF | Electron · JavaScript |
+| [reboot-ubiquiti-ssh](https://github.com/Alanz0ka/reboot-ubiquiti-ssh) | Reinicia antenas Ubiquiti em massa via SSH, em paralelo, a partir de um CSV | Python · paramiko |
+| [Script-n8n-docker](https://github.com/Alanz0ka/Script-n8n-docker) | Instala Docker e sobe o n8n com dados persistentes no Raspberry Pi | Shell · Docker |
+| [TaskManager](https://github.com/Alanz0ka/TaskManager) | API REST que sincroniza tarefas com o Google Calendar | Python · Django |
+| [josealan.com.br](https://github.com/Alanz0ka/josealan.com.br) | Meu site pessoal | HTML · CSS |
 
-## 🧰 Tecnologias & Ferramentas
-
-<div align="center">
-
-**Linguagens**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Back-end & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Estudando**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    PROJETOS EM DESTAQUE                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-| :------ | :-------- | :---------- |
-| 🎫 **[ChamaTI](https://github.com/Alanz0ka/ChamaTI)** | Plataforma de criação e gerenciamento de chamados (helpdesk). | `Python` `JavaScript` `HTML` `CSS` |
-| 📚 **[Organizador de Livros](https://github.com/Alanz0ka/Organizador-de-livros)** | Aplicação para organizar uma coleção de livros, aplicando POO. | `JavaScript` |
-| 🥤 **[Blessed Suplements](https://github.com/Alanz0ka/Blessed_Suplements)** | Loja de suplementos desenvolvida no projeto Blessed. | `HTML` `CSS` |
-| 📆 **[TaskManager](https://github.com/Alanz0ka/TaskManager)** | API RESTful com integração à API do Google Calendar. | `Python` |
-| 🐳 **[Script n8n Docker](https://github.com/Alanz0ka/Script-n8n-docker)** | Script que facilita a instalação do n8n via Docker. | `Shell` `Docker` |
-
-<div align="center">
-
-➡️ **[Veja todos os meus repositórios](https://github.com/Alanz0ka?tab=repositories)**
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       GITHUB STATS                             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 📊 Minhas estatísticas no GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alanz0ka&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="Estatísticas do GitHub de Alan Aquino" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alanz0ka&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide=jupyter%20notebook" alt="Linguagens mais usadas" />
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com/?user=Alanz0ka&theme=dracula&hide_border=true" alt="Sequência de contribuições" />
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                          CONTATO                               ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 📫 Vamos conversar?
-
-<div align="center">
-
-<a href="mailto:josealan.santos14@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/josealandeaquinosantos/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.instagram.com/lanzoka.dev/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://github.com/Alanz0ka">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://drive.google.com/uc?export=download&id=14lm5nJvpUezEFCo9PQNAXVbqBqvDY-wQ">
-  <img src="https://img.shields.io/badge/Currículo-Baixar-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Baixar currículo" />
-</a>
-
-<br/><br/>
-
-<em>⭐️ Curtiu algum projeto? Deixe uma estrela — isso me motiva muito!</em>
-
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alanz0ka&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=00000000&title_color=d6401f&icon_color=d6401f&text_color=8b8680" alt="Estatísticas do GitHub de Alan Aquino" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alanz0ka&layout=compact&langs_count=6&hide_border=true&hide=jupyter%20notebook&bg_color=00000000&title_color=d6401f&text_color=8b8680" alt="Linguagens mais usadas" />
+</p>
